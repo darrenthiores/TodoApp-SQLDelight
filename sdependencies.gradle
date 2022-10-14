@@ -1,0 +1,18 @@
+dependencies {
+    // koin
+    implementation "io.insert-koin:koin-core:$koinVersion"
+    implementation "io.insert-koin:koin-android:$koinVersion"
+
+    // koin -> jetpack
+    implementation "io.insert-koin:koin-androidx-compose:$koinVersion"
+
+    // timber
+    implementation "com.jakewharton.timber:timber:$timberVersion"
+
+    // livedata
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycleVersion"
+
+    // SQL Delight
+    implementation "com.squareup.sqldelight:android-driver:1.5.3"
+    implementation "com.squareup.sqldelight:coroutines-extensions-jvm:1.5.3"
+}

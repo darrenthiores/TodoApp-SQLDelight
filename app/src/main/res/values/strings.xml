@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Todo App Compose</string>
+    <string name="back_navigate_cd">Back</string>
+    <string name="edit_header">Edit Todo</string>
+    <string name="add_header">Add Todo</string>
+    <string name="filter_cd">Filter</string>
+    <string name="default_text">Default</string>
+    <string name="completed_text">Completed</string>
+    <string name="uncompleted_text">Uncompleted</string>
+    <string name="invalid_input">Please Fill This Form</string>
+    <string name="list_cl">Navigate to detail screen</string>
+    <string name="appbar_title">Todo</string>
+    <string name="input_label_title">Title</string>
+    <string name="input_label_description">Description</string>
+    <string name="button_add">Add</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+</resources>
